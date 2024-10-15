@@ -27,7 +27,7 @@
 #include <errno.h>
 #include <string.h>
 
-#include <modbus.h>
+#include <modbus/modbus.h>
 
 /*
  * Misc macros

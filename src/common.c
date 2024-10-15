@@ -26,7 +26,7 @@ enum modbus_type_e modbus_type = RTU;
 struct modbus_parms_s modbus_parms = {
 	/* RTU */
 	{
-		.serial_dev	= "/dev/ttyUSB0",
+		.serial_dev	= "/dev/ttyS0",
 		.baud		= 115200,
 		.bytes		= 8,
 		.parity		= 'N',
