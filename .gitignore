@@ -4,3 +4,5 @@
 modbus-dump
 modbus-set
 modbus-test
+
+build/
